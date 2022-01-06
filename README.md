@@ -1,15 +1,18 @@
-### Profile 👋
+## Profile 👋
 
-#### Name : Junhyuk Park
+### Hello I'm Junhyuk Park!
 
-#### My Skills...
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+- A novice developer who dreams of ai engineers and data analysts.
+- Boostcamper of Boostcamp AI Tech by Naver Connect Foundation, Jul 2021 ~ Dec 2021
+- Fast Campus Data Science School Process, Apr 2020 ~ Sep 2020
 
-..?
+### Award
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junhyuk93)](https://github.com/anuraghazra/github-readme-stats)
+- NPHD2021 gi cell Classification - 🥇
+-  Busan Illegal Objects Detection Hackathon - 🥇
+- Bank OCR Hackathon - 🥈
+- Parts of Body Semantic Segmentation - 🥈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junhyuk93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Junhyuk93/Junhyuk93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +28,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align=center>
+<a href="https://tabby-table-700.notion.site/Junhyuk-Park-05daf0fd1373467fb72116de833e0835" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a><a href="https://junhyuk93.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub Blog-000000?style=flat-square&logo=GitHub&logoColor=#181717"/></a> <a href="https://solved.ac/profile/akznsk1" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hyhgoodgo7"/></a>
+</div>
+
+
+
+<div align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunhyuk93&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
