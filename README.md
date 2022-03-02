@@ -3,7 +3,7 @@
 ### Hello I'm Junhyuk Park!
 
 - A novice developer who dreams of ai engineers and data analysts.
-- Google Cloud Study Jam AI&ML, Feb 2022 ~ ing
+- Google Cloud Study Jam 2022 AI&ML, Feb 2022 ~ ing
 - Pseudo Lab Data Science Fellowship 2th, Feb 2022 ~ ing
 - Boostcamper of Boostcamp AI Tech 2th by Naver Connect Foundation, Jul 2021 ~ Dec 2021
 - Fast Campus Data Science School Process, Apr 2020 ~ Sep 2020
