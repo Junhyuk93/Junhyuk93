@@ -2,20 +2,36 @@
 
 ### Hello I'm Junhyuk Park!
 
-- A novice developer who dreams of ai engineers and data analysts.
-- Google Cloud Study Jam 2022 AI&ML, Feb 2022 ~ ing
-- Pseudo Lab Data Science Fellowship 2nd, Feb 2022 ~ ing
-- Boostcamper of Boostcamp AI Tech 2nd by Naver Connect Foundation, Jul 2021 ~ Dec 2021
-- Fast Campus Data Science School Process, Apr 2020 ~ Sep 2020
+- A novice developer who dreams of AI engineers.
+
+### 활동 이력
+
+  - 가짜연구소 4기 아카데믹 러너 <Keeping up with GANs>, Feb 2022 ~ ing
+  - 구글 클라우드 스터디 잼 2022 AI&ML, Feb 2022 ~ ing
+  - 가짜연구소 Data Science Fellowship 2nd, Feb 2022 ~ ing
+  - 네이버 부스트캠프 AI Tech 2기 by Naver Connect Foundation, Jul 2021 ~ Dec 2021
+  - 패스트캠퍼스 데이터사이언스 스쿨 13기, Apr 2020 ~ Sep 2020
 
 ### Award
 
-- NPHD2021 gi cell Classification - 🥇
--  Busan Illegal Objects Detection Hackathon - 🥇
-- Bank OCR Hackathon - 🥈
-- Parts of Body Semantic Segmentation - 🥈
+  - National Pathology Health Datathon 2021 (NPHD 2021) - 대상🥇 [link](https://www.notion.so/a5f0321474574f61a552db47771be44c)
+  - 2021 부산광역시 불법객체 탐지 - 대상🥇 [link](https://www.notion.so/2021-2-6b67bd958b2f4a7097c36f9edc982abd) 
+  - 2021 OCR 인공지능 해커톤 - 최우수상 🥈 [link](https://www.notion.so/OCR-1c4a4d7d4f014e33b4afe5c4910da339)
+  - 눈바디 AI Challenge - 2등🥈 [link](https://www.notion.so/Segmentation-AI-Challenge-cf0cbb40e483447ca993fb7dd4ed34f5)
 
+### Project
 
+  - [DanceFit : Pose Estimation을 이용한 댄스 자세 교정](https://github.com/Junhyuk93/final-project-level3-cv-08)
+  - [재활용 품목 분류를 위한 Segmentation]()
+  - [재활용 품목 분류를 위한 Object Detection]()
+  - [Mask 착용 상태 분류]()
+  - [회귀분석을 이용한 일별 지하철 수요 예측]()
+  
+### Paper
+  
+  - [피싱 웹사이트 탐지를 위한 신경망과 진화연산 기반 URL 특징 최적화 알고리즘의 결합](https://drive.google.com/file/d/1jD4I6ZiFQyLlskAIkRrIe49fYhdkkqqg/view)
+  
+  
 <!--
 **Junhyuk93/Junhyuk93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
