@@ -6,7 +6,7 @@
 
 ### 활동 이력
 
-  - 가짜연구소 4기 아카데믹 러너 <Keeping up with GANs>, Feb 2022 ~ ing
+  - 가짜연구소 4기 아카데믹 러너 〈Keeping up with GANs〉, Feb 2022 ~ ing
   - 구글 클라우드 스터디 잼 2022 AI&ML, Feb 2022 ~ ing
   - 가짜연구소 Data Science Fellowship 2nd, Feb 2022 ~ ing
   - 네이버 부스트캠프 AI Tech 2기 by Naver Connect Foundation, Jul 2021 ~ Dec 2021
@@ -21,15 +21,15 @@
 
 ### Project
 
-  - [DanceFit : Pose Estimation을 이용한 댄스 자세 교정](https://github.com/Junhyuk93/final-project-level3-cv-08)
-  - [재활용 품목 분류를 위한 Segmentation]()
-  - [재활용 품목 분류를 위한 Object Detection]()
-  - [Mask 착용 상태 분류]()
-  - [회귀분석을 이용한 일별 지하철 수요 예측]()
+  - 🛠[DanceFit : Pose Estimation을 이용한 댄스 자세 교정](https://github.com/Junhyuk93/final-project-level3-cv-08)
+  - 🛠[재활용 품목 분류를 위한 Segmentation](https://github.com/Junhyuk93/what_is_team_name/tree/main/Semantic_Segmentation)
+  - 🛠[재활용 품목 분류를 위한 Object Detection](https://github.com/Junhyuk93/what_is_team_name/tree/main/Object_Detection)
+  - 🛠[Mask 착용 상태 분류](https://github.com/Junhyuk93/Mask_Classification)
+  - 🛠[회귀분석을 이용한 일별 지하철 수요 예측](https://github.com/Junhyuk93/subway_regression)
   
 ### Paper
   
-  - [피싱 웹사이트 탐지를 위한 신경망과 진화연산 기반 URL 특징 최적화 알고리즘의 결합](https://drive.google.com/file/d/1jD4I6ZiFQyLlskAIkRrIe49fYhdkkqqg/view)
+  - 📄[피싱 웹사이트 탐지를 위한 신경망과 진화연산 기반 URL 특징 최적화 알고리즘의 결합](https://drive.google.com/file/d/1jD4I6ZiFQyLlskAIkRrIe49fYhdkkqqg/view)
   
   
 <!--
