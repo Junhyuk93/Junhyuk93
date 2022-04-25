@@ -6,6 +6,11 @@
 
 ### Activity
 
+  - Promedius 인공지능 연구&개발 ML팀, Apr 2022 ~ ing
+
+
+### Activity
+
   - 가짜연구소 4기 아카데믹 러너 〈Keeping up with GANs〉, Feb 2022 ~ ing
   - 구글 클라우드 스터디 잼 2022 AI&ML 입문과정, Feb 2022 ~ Apr 2022 수료
   - 가짜연구소 Data Science Fellowship 2nd, Feb 2022 ~ ing
