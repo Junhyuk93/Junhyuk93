@@ -2,9 +2,7 @@
 
 ### Hello I'm Junhyuk Park!
 
-- A novice developer who dreams of AI engineers.
-
-### Activity
+### Career
 
   - Promedius 인공지능 연구&개발 ML팀, Apr 2022 ~ ing
 
