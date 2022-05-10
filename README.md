@@ -50,11 +50,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<!-- <a href="https://tabby-table-700.notion.site/Junhyuk-Park-05daf0fd1373467fb72116de833e0835" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> -->
+<!-- <a href="https://tabby-table-700.notion.site/Junhyuk-Park-05daf0fd1373467fb72116de833e0835" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a><a href="https://junhyuk93.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub Blog-000000?style=flat-square&logo=GitHub&logoColor=#181717"/></a> -->
 
 <div align=center>
-<a href="https://junhyuk93.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub Blog-000000?style=flat-square&logo=GitHub&logoColor=#181717"/></a> <a href="https://solved.ac/profile/akznsk1" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hyhgoodgo7"/></a>
+<a href="https://solved.ac/profile/akznsk1" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hyhgoodgo7"/></a>
 </div>
 
 
