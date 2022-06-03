@@ -15,7 +15,14 @@
   - 네이버 부스트캠프 AI Tech 2기 by Naver Connect Foundation, Jul 2021 ~ Dec 2021 
   - 패스트캠퍼스 데이터사이언스 스쿨 13기, Apr 2020 ~ Sep 2020 
 
-<!-- ### Award
+### Award
+
+- National Pathology Health Datathon 2021 (NPHD 2021) - 대상🥇
+- 2021 부산광역시 불법객체 탐지 - 대상🥇 
+- 2021 OCR 인공지능 해커톤 - 최우수상 🥈
+- 눈바디 AI Challenge - 2등🥈
+
+<!--
 
   - National Pathology Health Datathon 2021 (NPHD 2021) - 대상🥇 [link](https://www.notion.so/a5f0321474574f61a552db47771be44c)
   - 2021 부산광역시 불법객체 탐지 - 대상🥇 [link](https://www.notion.so/2021-2-6b67bd958b2f4a7097c36f9edc982abd) 
