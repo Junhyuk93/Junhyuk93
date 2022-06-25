@@ -9,9 +9,9 @@
 
 ### Activity
 
-  - 가짜연구소 4기 아카데믹 러너 〈Keeping up with GANs〉, Feb 2022 ~ ing
+  - 가짜연구소 4기 아카데믹 러너 〈Keeping up with GANs〉, Feb 2022 ~ Jun 2022
   - 구글 클라우드 스터디 잼 2022 AI&ML 입문과정, 중급과정 Feb 2022 ~ May 2022 
-  - 가짜연구소 Data Science Fellowship 2nd, Feb 2022 ~ ing
+  - 가짜연구소 Data Science Fellowship 2nd, Feb 2022 ~ Jun 2022
   - 네이버 부스트캠프 AI Tech 2기 by Naver Connect Foundation, Jul 2021 ~ Dec 2021 
   - 패스트캠퍼스 데이터사이언스 스쿨 13기, Apr 2020 ~ Sep 2020 
 
