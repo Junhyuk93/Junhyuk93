@@ -11,7 +11,6 @@
 
   - 가짜연구소 4기 아카데믹 러너 〈Keeping up with GANs〉, Feb 2022 ~ Jun 2022
   - 구글 클라우드 스터디 잼 2022 AI&ML 입문과정, 중급과정 Feb 2022 ~ May 2022 
-  - 가짜연구소 Data Science Fellowship 2nd, Feb 2022 ~ Jun 2022
   - 네이버 부스트캠프 AI Tech 2기 by Naver Connect Foundation, Jul 2021 ~ Dec 2021 
   - 패스트캠퍼스 데이터사이언스 스쿨 13기, Apr 2020 ~ Sep 2020 
 
@@ -23,7 +22,7 @@
 - 눈바디 AI Challenge - 2등🥈
 
 <!--
-
+  -   - 가짜연구소 Data Science Fellowship 2nd, Feb 2022 ~ Jun 2022
   - National Pathology Health Datathon 2021 (NPHD 2021) - 대상🥇 [link](https://www.notion.so/a5f0321474574f61a552db47771be44c)
   - 2021 부산광역시 불법객체 탐지 - 대상🥇 [link](https://www.notion.so/2021-2-6b67bd958b2f4a7097c36f9edc982abd) 
   - 2021 OCR 인공지능 해커톤 - 최우수상 🥈 [link](https://www.notion.so/OCR-1c4a4d7d4f014e33b4afe5c4910da339)
