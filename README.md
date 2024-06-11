@@ -4,7 +4,7 @@
 
 ### Career
 
-  - Promedius 인공지능 연구&개발 ML팀, Apr 2022 ~ ing
+  - Promedius R&D AI Researcher, Apr 2022 ~ ing
 
 
 ### Activity
