@@ -1,6 +1,6 @@
 ## Profile 👋
 
-### Hello I'm Junhyuk Park!
+### Hello I'm Junhyeok Park!
 
 ### Career
 
