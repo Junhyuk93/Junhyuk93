@@ -17,6 +17,10 @@
   - 네이버 부스트캠프 AI Tech 2기 by Naver Connect Foundation, Jul 2021 ~ Dec 2021 
   - 패스트캠퍼스 데이터사이언스 스쿨 13기, Apr 2020 ~ Sep 2020 
 
+### Paper
+  - DEEP LEARNING APPROACH FOR CLASSIFICATION OF OSTEOPOROSIS AND OSTEOPENIA ON CHEST X-RAY WITH A MULTINATIONAL STUDY (RSNA2024)
+  - Deep Learning Method for Normal, Osteopenia and Osteoporosis Classification on Chest X-rays: A Multinational Investigation (ASBMR2024)
+
 ### Award
 - 2023 제 1회 헬스케어 분야 생성모델 활용 대회(Healthcare Mini Prompt-a-thon) 3등🥉
 - National Pathology Health Datathon 2021 (NPHD 2021) - 대상🥇
