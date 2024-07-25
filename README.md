@@ -38,6 +38,11 @@
   - 🛠[재활용 품목 분류를 위한 Object Detection](https://github.com/Junhyuk93/what_is_team_name/tree/main/Object_Detection)
   - 🛠[Mask 착용 상태 분류](https://github.com/Junhyuk93/Mask_Classification)
   - 🛠[회귀분석을 이용한 일별 지하철 수요 예측](https://github.com/Junhyuk93/subway_regression)
+
+### Paper
+
+  - DEEP LEARNING APPROACH FOR CLASSIFICATION OF OSTEOPOROSIS AND OSTEOPENIA ON CHEST X-RAY WITH A MULTINATIONAL STUDY (RSNA2024)
+  - TITLE: Deep Learning Method for Normal, Osteopenia and Osteoporosis Classification on Chest X-rays: A Multinational Investigation (ASBMR2024)
   
 ### Paper
   
