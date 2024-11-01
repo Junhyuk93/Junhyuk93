@@ -20,7 +20,7 @@
 ### Paper
   - DEEP LEARNING APPROACH FOR CLASSIFICATION OF OSTEOPOROSIS AND OSTEOPENIA ON CHEST X-RAY WITH A MULTINATIONAL STUDY - RSNA 2024 (Oral Session)
   - Deep Learning Method for Normal, Osteopenia and Osteoporosis Classification on Chest X-rays: A Multinational Investigation - ASBMR 2024 (Plenary Poster Session)
-  - Enhanced Multi-Class Classification on Osteoporosis Severity in Chest X-Rays Using Knowledge Distillation and Proxy Labels - KoSAIM 2024 (Poster Session) - Best Poster Presentation Award🥇ß
+  - Enhanced Multi-Class Classification on Osteoporosis Severity in Chest X-Rays Using Knowledge Distillation and Proxy Labels - KoSAIM 2024 (Poster Session) - Best Poster Presentation Award🥇
   - Combination of Deep Neural Network and Genetic Algorithm-based URL Feature Optimization for Phishing Website Detection - KSC2020 (Oral Session) 
 ### Award
 - 2023 제 1회 헬스케어 분야 생성모델 활용 대회(Healthcare Mini Prompt-a-thon) 3등🥉
