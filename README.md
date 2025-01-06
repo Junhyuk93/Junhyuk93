@@ -18,6 +18,7 @@
   - 패스트캠퍼스 데이터사이언스 스쿨 13기, Apr 2020 ~ Sep 2020 
 
 ### Paper
+  - Deep Learning-Based Classification of Osteoporosis and Osteopenia from Chest Radiographs: A Multi-Center Validation Study - ECR 2025 (Poster Session)
   - DEEP LEARNING APPROACH FOR CLASSIFICATION OF OSTEOPOROSIS AND OSTEOPENIA ON CHEST X-RAY WITH A MULTINATIONAL STUDY - RSNA 2024 (Oral Session)
   - Deep Learning Method for Normal, Osteopenia and Osteoporosis Classification on Chest X-rays: A Multinational Investigation - ASBMR 2024 (Plenary Poster Session)
   - Enhanced Multi-Class Classification on Osteoporosis Severity in Chest X-Rays Using Knowledge Distillation and Proxy Labels - KoSAIM 2024 (Poster Session) - Best Poster Presentation Award🥇
