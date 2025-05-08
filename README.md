@@ -18,6 +18,8 @@
   - 패스트캠퍼스 데이터사이언스 스쿨 13기, Apr 2020 ~ Sep 2020 
 
 ### Paper
+  - ­­­Opportunistic Screening of Low Bone Mass using Knowledge Distillation Based Deep Learning in Chest X-rays with External Validations - (This work is currently under review at Osteoporosis International)
+  - Refining Early Detection of Low Bone Mineral Density: A Deep Learning Model for Osteopenia Screening Using Chest Radiographs - WCO-IOF-ESCEO 2025 (Oral Presentation Session, Poster Session)
   - Deep Learning-Based Classification of Osteoporosis and Osteopenia from Chest Radiographs: A Multi-Center Validation Study - ECR 2025 (Poster Session)
   - DEEP LEARNING APPROACH FOR CLASSIFICATION OF OSTEOPOROSIS AND OSTEOPENIA ON CHEST X-RAY WITH A MULTINATIONAL STUDY - RSNA 2024 (Oral Session)
   - Deep Learning Method for Normal, Osteopenia and Osteoporosis Classification on Chest X-rays: A Multinational Investigation - ASBMR 2024 (Plenary Poster Session)
