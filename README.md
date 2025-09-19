@@ -8,6 +8,7 @@
 
 
 ### Activity
+  - 네이버 부스트캠프 AI Tech 8기 Computer Vision 멘토 by Naver Connect Foundation
   - 2024 네이버 커넥트재단 'AI 엔지니어 기초 다지기' 1~2회차 교육 담당 코치
   - 2023 AI 의료영상 진단 및 판독 지원 실습 3~4차 과정 강사 (한국디지털융합진흥원) 
   - 2023 AI신뢰성 요구사항 도출 의료분야 개발안내서 검수위원
@@ -18,7 +19,7 @@
   - 패스트캠퍼스 데이터사이언스 스쿨 13기, Apr 2020 ~ Sep 2020 
 
 ### Paper
-  - ­­­Opportunistic Screening of Low Bone Mass using Knowledge Distillation Based Deep Learning in Chest X-rays with External Validations - (This work is currently under review at Osteoporosis International)
+  - ­­­Opportunistic Screening of Low Bone Mass using Knowledge Distillation Based Deep Learning in Chest X-rays with External Validations - (Archive Of Osteoporosis Accept(IF 3.0))
   - Refining Early Detection of Low Bone Mineral Density: A Deep Learning Model for Osteopenia Screening Using Chest Radiographs - WCO-IOF-ESCEO 2025 (Oral Presentation Session, Poster Session)
   - Deep Learning-Based Classification of Osteoporosis and Osteopenia from Chest Radiographs: A Multi-Center Validation Study - ECR 2025 (Poster Session)
   - DEEP LEARNING APPROACH FOR CLASSIFICATION OF OSTEOPOROSIS AND OSTEOPENIA ON CHEST X-RAY WITH A MULTINATIONAL STUDY - RSNA 2024 (Oral Session)
