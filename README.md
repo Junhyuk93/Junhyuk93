@@ -8,7 +8,7 @@
 
 
 ### Activity
-  - 네이버 부스트캠프 AI Tech 8기 Computer Vision 멘토 by Naver Connect Foundation
+  - 네이버 부스트캠프 AI Tech 8기 Computer Vision 멘토
   - 2024 네이버 커넥트재단 'AI 엔지니어 기초 다지기' 1~2회차 교육 담당 코치
   - 2023 AI 의료영상 진단 및 판독 지원 실습 3~4차 과정 강사 (한국디지털융합진흥원) 
   - 2023 AI신뢰성 요구사항 도출 의료분야 개발안내서 검수위원
